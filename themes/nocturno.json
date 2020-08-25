@@ -95,21 +95,31 @@
     "input.foreground": "#ffffff80",
     "input.placeholderForeground": "#ffffff40",
 
+    // Dropdown control
+    "dropdown.background": "#00000020",
+		"dropdown.foreground": "#ffffff80",
+    "dropdown.listBackground": "#00000020",
+    "dropdown.border": "#00000010",
+
+    // Status bar
+    "statusBar.background": "#1c1b20",
+    "statusBar.foreground": "#ffffff20",
+    "statusBar.debuggingForeground": "#ffffffcc",
+    "statusBar.debuggingBackground": "#a95c3d",
+    "statusBar.noFolderForeground": "#ffffffcc",
+
+    // Terminal
+    "terminal.foreground": "#b9b9b9",
+    "terminal.ansiRed": "#b94040",
+    "terminal.ansiBrightRed": "#b94040",
+    "terminal.ansiBlue": "#4276d8",
+    "terminal.ansiBrightBlue": "#4276d8",
 
 
     "descriptionForeground": "#848489",
 		"panel.border": "#00000010",
 		"panelTitle.activeForeground": "#848489",
 		"panelTitle.inactiveForeground": "#5b5b62",
-		"dropdown.background": "#f1eee8",
-		"dropdown.foreground": "#00000090",
-    "dropdown.listBackground": "#f1eee8",
-    "dropdown.border": "#00000010",
-		"statusBar.background": "#f5f3f1",
-    "statusBar.foreground": "#5b5b62",
-    "statusBar.debuggingForeground": "#ffffffcc",
-    "statusBar.debuggingBackground": "#a95c3d",
-    "statusBar.noFolderForeground": "#ffffffcc",
     "button.background": "#00000008",
     "button.foreground": "#000000bb",
 		"editorIndentGuide.background": "#ffffff07",
