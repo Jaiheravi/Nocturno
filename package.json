@@ -1,11 +1,11 @@
 {
-	"name": "diurno",
-	"displayName": "Diurno",
-	"description": "Light and Minimalist Theme for VS Code",
-	"publisher": "MetaLogic",
+	"name": "nocturno",
+	"displayName": "Nocturno",
+	"description": "Theme for coding in low light environments",
+	"publisher": "Jaiheravi",
 	"version": "1.0.0",
 	"engines": {
-		"vscode": "^1.40.0"
+		"vscode": "^1.49.0"
 	},
 	"categories": [
 		"Themes"
@@ -13,9 +13,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Diurno",
+				"label": "Nocturno",
 				"uiTheme": "vs",
-				"path": "./themes/diurno.json"
+				"path": "./themes/nocturno.json"
 			}
 		]
 	}
