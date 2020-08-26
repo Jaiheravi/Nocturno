@@ -84,12 +84,14 @@
     // Editor widget colors
     "widget.shadow": "#00000030",
     "editorWidget.border": "#00000030",
-    "editorHoverWidget.background": "#151418",
+    "editorHoverWidget.background": "#161618",
     "editorHoverWidget.border": "#00000020",
-    "editorWidget.background": "#151418",
+    "editorWidget.background": "#161618",
     "editorWidget.foreground": "#ffffff80",
-    "editorSuggestWidget.highlightForeground": "#d3a271",
-    "editorSuggestWidget.selectedBackground": "#00000010",
+    "editorSuggestWidget.highlightForeground": "#b6b6b6",
+    "editorSuggestWidget.foreground": "#838383",
+    "editorSuggestWidget.selectedBackground": "#25242b",
+    "editorSuggestWidget.border": "#00000000",
 
     // Input control
     "input.background": "#00000060",
@@ -121,7 +123,7 @@
 		"panel.border": "#00000010",
 		"panelTitle.activeForeground": "#848489",
 		"panelTitle.inactiveForeground": "#5b5b62",
-    "button.background": "#00000008",
+    "button.background": "#d3a271",
     "button.foreground": "#000000bb",
 		"editorIndentGuide.background": "#ffffff07",
     "editorIndentGuide.activeBackground": "#ffffff15",
