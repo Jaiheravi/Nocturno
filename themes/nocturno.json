@@ -9,6 +9,7 @@
     // Editor
     "editor.background": "#1c1b20",
     "editor.foreground": "#acacac",
+    "editorCursor.foreground": "#e4e4e4",
 
     // Breadcrumbs colors
     "breadcrumb.foreground": "#ffffff20",
@@ -67,7 +68,7 @@
     "list.inactiveSelectionBackground": "#00000010",
     "list.focusBackground": "#ffffff09",
     "list.focusForeground": "#d3a271",
-    "list.errorForeground": "#c46800",
+    "list.errorForeground": "#f85b46",
     "tree.indentGuidesStroke": "#ffffff09",
 
     // Menu Bar colors
