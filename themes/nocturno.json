@@ -10,6 +10,8 @@
     "editor.background": "#1c1b20",
     "editor.foreground": "#acacac",
     "editorCursor.foreground": "#e4e4e4",
+    "editor.selectionHighlightBackground": "#ffffff10",
+    "editor.selectionBackground": "#ffffff30",
 
     // Breadcrumbs colors
     "breadcrumb.foreground": "#ffffff20",
@@ -132,8 +134,6 @@
     "editorGutter.modifiedBackground": "#5991c9",
     "minimap.errorHighlight": "#c46800",
     "editorError.foreground": "#f09f9f",
-    "editor.selectionHighlightBackground": "#ebd6ae",
-    "editor.selectionBackground": "#e9d490",
     "scrollbar.shadow": "#00000025"
 	},
 	"tokenColors": [
