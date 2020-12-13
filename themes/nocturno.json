@@ -267,7 +267,8 @@
         "entity.other.inherited-class",
         "entity.name.type.module",
         "entity.name.type",
-        "support.type.object.module"
+        "support.type.object.module",
+        "support.type.property-name.css"
       ],
       "settings": {
         "foreground": "#c37dd8",
