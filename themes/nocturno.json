@@ -34,7 +34,7 @@
 
     // Sidebar
     "sideBar.background": "#16151a",
-    "sideBar.foreground": "#ffffff40",
+    "sideBar.foreground": "#8f8f99",
     "sideBar.border": "#00000000",
 
     // Sections in the sidebar
@@ -69,13 +69,14 @@
 
     // Lists and trees
     "list.hoverBackground": "#00000010",
-		"list.hoverForeground": "#96969a",
+		"list.hoverForeground": "#afafb6",
 		"list.activeSelectionBackground": "#ffffff0a",
-		"list.activeSelectionForeground": "#96969a",
+		"list.activeSelectionForeground": "#afafb6",
     "list.inactiveSelectionBackground": "#ffffff0a",
+    "list.inactiveSelectionForeground": "#afafb6",
     "list.focusBackground": "#ffffff09",
-    "list.focusForeground": "#d3a271",
-    "list.errorForeground": "#f85b46",
+    "list.focusForeground": "#7da1d8",
+    "list.errorForeground": "#dd6555",
     "tree.indentGuidesStroke": "#ffffff09",
 
     // Menu Bar colors
