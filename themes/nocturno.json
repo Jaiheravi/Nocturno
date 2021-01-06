@@ -186,10 +186,11 @@
         "support.function",
         "meta.list",
         "entity.name.constant",
-        "variable.parameter"
+        "variable.parameter",
+        "support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#5b92c5",
+        "foreground": "#5c96bc",
       }
     },
     {
@@ -217,7 +218,7 @@
         "support.variable.property.process"
       ],
       "settings": {
-        "foreground": "#d39477",
+        "foreground": "#e69d7e",
       }
     },
     {
@@ -236,7 +237,7 @@
         "keyword.operator",
       ],
       "settings": {
-        "foreground": "#0ca18e",
+        "foreground": "#4ab494",
       }
     },
     {
@@ -251,10 +252,11 @@
         "keyword.other.unit",
         "meta.definition.function",
         "support.variable.property",
-        "support.type.primitive"
+        "support.type.primitive",
+        "keyword.hdl"
       ],
       "settings": {
-        "foreground": "#ccb77b",
+        "foreground": "#ccb984",
       }
     },
     {
@@ -271,10 +273,11 @@
         "entity.name.type",
         "support.type.object.module",
         "support.type.property-name.css",
-        "keyword.other.important.css"
+        "keyword.other.important.css",
+        "meta.object-literal.key.js"
       ],
       "settings": {
-        "foreground": "#c37dd8",
+        "foreground": "#c483d8",
       }
     },
     {
