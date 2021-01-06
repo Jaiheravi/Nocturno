@@ -6,6 +6,7 @@
     // Base colors
     "icon.foreground": "#6b6b6b",
     "foreground":"#acacac",
+    "focusBorder": "#ffffff00",
 
     // Editor
     "editor.background": "#16151a",
