@@ -258,7 +258,7 @@
       }
     },
     {
-      "name": "Purple - Bold",
+      "name": "Purple",
       "scope": [
         "support.function.process",
         "support.function.console",
@@ -270,10 +270,21 @@
         "entity.name.type.module",
         "entity.name.type",
         "support.type.object.module",
-        "support.type.property-name.css"
+        "support.type.property-name.css",
+        "keyword.other.important.css"
       ],
       "settings": {
         "foreground": "#c37dd8",
+      }
+    },
+    {
+      "name": "Red - Italic",
+      "scope": [
+        "keyword.other.important.css"
+      ],
+      "settings": {
+        "foreground": "#db6262",
+        "fontStyle": "italic"
       }
     }
   ]
