@@ -132,11 +132,15 @@
     "statusBar.noFolderForeground": "#ffffffcc",
 
     // Terminal
-    "terminal.foreground": "#b9b9b9",
-    "terminal.ansiRed": "#b94040",
-    "terminal.ansiBrightRed": "#b94040",
-    "terminal.ansiBlue": "#4276d8",
-    "terminal.ansiBrightBlue": "#4276d8",
+    "terminal.foreground": "#30333f",
+    "terminal.ansiRed": "#ccb984",
+    "terminal.ansiBrightRed": "#ccb984",
+    "terminal.ansiBlue": "#71aac3",
+    "terminal.ansiBrightBlue": "#71aac3",
+    "terminal.ansiBrightGreen": "#7EA16B",
+    "terminal.ansiGreen": "#7EA16B",
+    "terminal.ansiCyan": "#c483d8",
+    "terminal.ansiBrightCyan": "#c483d8",
 
 		"panel.border": "#00000010",
 		"panelTitle.activeForeground": "#848489",
