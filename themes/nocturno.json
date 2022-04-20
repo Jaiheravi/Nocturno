@@ -225,6 +225,7 @@
       "scope": [
         "constant.numeric",
         "string.quoted",
+        "string.unquoted.plain.out.yaml",
         "string.template",
         "entity.name.label",
         "constant.other.color.rgb-value",
