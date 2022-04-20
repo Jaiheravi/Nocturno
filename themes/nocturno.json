@@ -272,7 +272,9 @@
         "support.variable.property",
         "support.type.primitive",
         "keyword.hdl",
-        "entity.other.attribute-name.placeholder.css"
+        "entity.other.attribute-name.placeholder.css",
+        "support.class.liquid",
+        "support.variable.liquid",
       ],
       "settings": {
         "foreground": "#ccb984",
@@ -293,7 +295,7 @@
         "support.type.object.module",
         "keyword.other.important.css",
         "meta.object-literal.key.js",
-        "meta.tag.attributes"
+        "meta.tag.attributes",
       ],
       "settings": {
         "foreground": "#c483d8",
