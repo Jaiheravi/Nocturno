@@ -132,7 +132,7 @@
     "statusBar.noFolderForeground": "#ffffffcc",
 
     // Terminal
-    "terminal.foreground": "#30333f",
+    "terminal.foreground": "#7d8296",
     "terminal.ansiRed": "#ccb984",
     "terminal.ansiBrightRed": "#ccb984",
     "terminal.ansiBlue": "#71aac3",
