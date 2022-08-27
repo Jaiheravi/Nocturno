@@ -233,7 +233,8 @@
         "storage.type.function.arrow",
         "string.regexp",
         "constant.language",
-        "support.variable.property.process"
+        "support.variable.property.process",
+        "support.function.without-args.liquid"
       ],
       "settings": {
         "foreground": "#71aac3",
@@ -253,6 +254,7 @@
         "storage.struct.racket",
         "entity.other.attribute-name.html",
         "keyword.operator",
+        "entity.name.tag.liquid"
       ],
       "settings": {
         "foreground": "#3ac68b",
