@@ -5,7 +5,7 @@
 	"colors": {
     // Base colors
     "icon.foreground": "#6b6b6b",
-    "foreground":"#303c5c",
+    "foreground":"#adb4c6",
     "focusBorder": "#ffffff00",
 
     // Git
