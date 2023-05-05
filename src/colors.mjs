@@ -15,6 +15,9 @@ export default {
     foreground: "#739196",
     foregroundSecondary: "#4F6569",
 
+    added: "#27B97C",
+    modified: "#DED690",
+    removed: "#D98D8F",
     info: "#5DB7DE",
     warning: "#FA824C",
     error: "#D95961",

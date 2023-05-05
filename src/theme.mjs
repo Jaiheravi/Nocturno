@@ -64,8 +64,9 @@ export default {
     "editorCursor.foreground": "#e4e4e4",
     "editorError.foreground": colors.ui.error,
     "editorInfo.foreground": colors.ui.info,
-    "editorGutter.addedBackground": "#36a577",
-    "editorGutter.modifiedBackground": "#5991c9",
+    "editorGutter.addedBackground": colors.ui.added,
+    "editorGutter.modifiedBackground": colors.ui.modified,
+    "editorGutter.deletedBackground": colors.ui.removed,
     "editorIndentGuide.activeBackground": "#ffffff15",
     "editorRuler.foreground": "#ffffff07",
     // Editor - Overview ruler:
@@ -97,6 +98,9 @@ export default {
     "editorWidget.foreground": colors.ui.foreground,
     // Git
     "gitDecoration.ignoredResourceForeground": "#00000020",
+    "gitDecoration.modifiedResourceForeground": colors.ui.modified,
+    "gitDecoration.deletedResourceForeground": colors.ui.removed,
+    "gitDecoration.addedResourceForeground": colors.ui.added,
     // Input control
     "input.background": "#00000040",
     "input.foreground": colors.ui.foreground,

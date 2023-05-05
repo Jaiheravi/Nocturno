@@ -50,8 +50,9 @@
     "editorCursor.foreground": "#e4e4e4",
     "editorError.foreground": "#D95961",
     "editorInfo.foreground": "#5DB7DE",
-    "editorGutter.addedBackground": "#36a577",
-    "editorGutter.modifiedBackground": "#5991c9",
+    "editorGutter.addedBackground": "#27B97C",
+    "editorGutter.modifiedBackground": "#DED690",
+    "editorGutter.deletedBackground": "#D98D8F",
     "editorIndentGuide.activeBackground": "#ffffff15",
     "editorRuler.foreground": "#ffffff07",
     "editorOverviewRuler.border": "#00000000",
@@ -76,6 +77,9 @@
     "editorWidget.background": "#1E2D30",
     "editorWidget.foreground": "#739196",
     "gitDecoration.ignoredResourceForeground": "#00000020",
+    "gitDecoration.modifiedResourceForeground": "#DED690",
+    "gitDecoration.deletedResourceForeground": "#D98D8F",
+    "gitDecoration.addedResourceForeground": "#27B97C",
     "input.background": "#00000040",
     "input.foreground": "#739196",
     "input.placeholderForeground": "#4F6569",
@@ -117,14 +121,14 @@
     "statusBar.debuggingBackground": "#a95c3d",
     "statusBar.noFolderForeground": "#ffffffcc",
     "terminal.foreground": "#739196",
-    "terminal.ansiRed": "#C97B84",
-    "terminal.ansiBrightRed": "#C97B84",
-    "terminal.ansiBlue": "#FFD6AF",
-    "terminal.ansiBrightBlue": "#FFD6AF",
+    "terminal.ansiRed": "#DC8484",
+    "terminal.ansiBrightRed": "#DC8484",
+    "terminal.ansiBlue": "#FFD5AD",
+    "terminal.ansiBrightBlue": "#FFD5AD",
     "terminal.ansiBrightGreen": "#7EA16B",
     "terminal.ansiGreen": "#7EA16B",
-    "terminal.ansiCyan": "#BFEDEF",
-    "terminal.ansiBrightCyan": "#BFEDEF",
+    "terminal.ansiCyan": "#BAEFF2",
+    "terminal.ansiBrightCyan": "#BAEFF2",
     "titleBar.activeBackground": "#111418",
     "titleBar.activeForeground": "#739196",
     "titleBar.inactiveBackground": "#111418",
@@ -182,7 +186,7 @@
         "support.type.property-name.css"
       ],
       "settings": {
-        "foreground": "#C4B7CB"
+        "foreground": "#C8AED6"
       }
     },
     {
@@ -191,7 +195,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#C4B7CB",
+        "foreground": "#C8AED6",
         "fontStyle": "italic"
       }
     },
@@ -212,7 +216,7 @@
         "support.function.without-args.liquid"
       ],
       "settings": {
-        "foreground": "#FFD6AF"
+        "foreground": "#FFD5AD"
       }
     },
     {
@@ -232,7 +236,7 @@
         "entity.name.tag.liquid"
       ],
       "settings": {
-        "foreground": "#98E2C6"
+        "foreground": "#92E8C7"
       }
     },
     {
@@ -254,7 +258,7 @@
         "support.variable.liquid"
       ],
       "settings": {
-        "foreground": "#C97B84"
+        "foreground": "#DC8484"
       }
     },
     {
@@ -275,7 +279,7 @@
         "meta.tag.attributes"
       ],
       "settings": {
-        "foreground": "#BFEDEF"
+        "foreground": "#BAEFF2"
       }
     },
     {
@@ -284,7 +288,7 @@
         "keyword.other.important.css"
       ],
       "settings": {
-        "foreground": "#F6FEAA",
+        "foreground": "#F6FEA9",
         "fontStyle": "italic"
       }
     }
