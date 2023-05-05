@@ -97,7 +97,7 @@ export default {
     "editorWidget.background": colors.ui.backgroundSecondary,
     "editorWidget.foreground": colors.ui.foreground,
     // Git
-    "gitDecoration.ignoredResourceForeground": "#00000020",
+    "gitDecoration.ignoredResourceForeground": "#ffffff40",
     "gitDecoration.modifiedResourceForeground": colors.ui.modified,
     "gitDecoration.deletedResourceForeground": colors.ui.removed,
     "gitDecoration.addedResourceForeground": colors.ui.added,

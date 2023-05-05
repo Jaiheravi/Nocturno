@@ -76,7 +76,7 @@
     "editorWidget.border": "#739196",
     "editorWidget.background": "#1E2D30",
     "editorWidget.foreground": "#739196",
-    "gitDecoration.ignoredResourceForeground": "#00000020",
+    "gitDecoration.ignoredResourceForeground": "#ffffff40",
     "gitDecoration.modifiedResourceForeground": "#DED690",
     "gitDecoration.deletedResourceForeground": "#D98D8F",
     "gitDecoration.addedResourceForeground": "#27B97C",
