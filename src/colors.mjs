@@ -1,12 +1,12 @@
 export default {
   tokens: {
     color1: "#607B80",
-    color2: "#C4B7CB",
-    color3: "#FFD6AF",
-    color4: "#98E2C6",
-    color5: "#C97B84",
-    color6: "#BFEDEF",
-    color7: "#F6FEAA",
+    color2: "#C8AED6",
+    color3: "#FFD5AD",
+    color4: "#92E8C7",
+    color5: "#DC8484",
+    color6: "#BAEFF2",
+    color7: "#F6FEA9",
   },
   ui: {
     background: "#111418",
