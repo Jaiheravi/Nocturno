@@ -156,8 +156,8 @@ export default {
     "terminal.ansiBrightRed": colors.tokens.color5,
     "terminal.ansiBlue": colors.tokens.color3,
     "terminal.ansiBrightBlue": colors.tokens.color3,
-    "terminal.ansiBrightGreen": "#7EA16B",
-    "terminal.ansiGreen": "#7EA16B",
+    "terminal.ansiBrightGreen": colors.tokens.color4,
+    "terminal.ansiGreen": colors.tokens.color4,
     "terminal.ansiCyan": colors.tokens.color6,
     "terminal.ansiBrightCyan": colors.tokens.color6,
     // Title bar
