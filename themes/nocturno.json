@@ -20,7 +20,6 @@
     "button.background": "#7da1d8",
     "button.foreground": "#000000c7",
     "checkbox.border": "#6B6B6B",
-    "window.activeBorder": "#f00",
     "minimap.errorHighlight": "#c46800",
     "panel.border": "#ffffff05",
     "scrollbar.shadow": "#00000025",
