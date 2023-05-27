@@ -3,9 +3,13 @@
 	"displayName": "Nocturno",
 	"description": "A dark theme for Visual Studio Code",
 	"publisher": "Jaiheravi",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.78.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jaiheravi/Nocturno"
 	},
 	"categories": [
 		"Themes"
