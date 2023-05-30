@@ -101,7 +101,7 @@ export default {
     "gitDecoration.deletedResourceForeground": colors.ui.removed,
     "gitDecoration.addedResourceForeground": colors.ui.added,
     // Input control
-    "input.background": "#00000040",
+    "input.background": colors.ui.foregroundSecondary,
     "input.foreground": colors.ui.foreground,
     "input.placeholderForeground": colors.ui.foregroundSecondary,
     // Line highlight
