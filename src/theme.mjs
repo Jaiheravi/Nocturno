@@ -48,8 +48,8 @@ export default {
     // Dropdown control
     "dropdown.background": colors.ui.backgroundSecondary,
     "dropdown.foreground": colors.ui.foreground,
-    "dropdown.listBackground": "#00000020",
-    "dropdown.border": "#00000010",
+    "dropdown.listBackground": colors.ui.backgroundSecondary,
+    "dropdown.border": "#00000000",
     // Editor
     "editor.background": colors.ui.background,
     "editor.foreground": colors.ui.foreground,
