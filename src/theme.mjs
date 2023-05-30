@@ -46,7 +46,7 @@ export default {
     // Command Center
     //"commandCenter.activeBackground": colors.ui.backgroundSecondary,
     // Dropdown control
-    "dropdown.background": "#00000020",
+    "dropdown.background": colors.ui.backgroundSecondary,
     "dropdown.foreground": colors.ui.foreground,
     "dropdown.listBackground": "#00000020",
     "dropdown.border": "#00000010",
