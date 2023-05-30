@@ -10,10 +10,11 @@ export default {
   },
   ui: {
     background: "#111418",
-    backgroundSecondary: "#1E2D30",
+    backgroundSecondary: "#212830",
     foreground: "#739196",
     foregroundSecondary: "#4F6569",
     border: "#ffffff05",
+    inputBackground: "#191E24",
 
     // Status
     added: "#27B97C",
